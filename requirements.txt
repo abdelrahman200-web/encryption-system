@@ -1,0 +1,5 @@
+# No external packages required
+# This project uses only standard Python libraries:
+ - tkinter (GUI)
+ - hashlib (for hashing)
+# No additional packages to install.
